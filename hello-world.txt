@@ -1,3 +1,5 @@
 I've opened the text file and have added some text to it.
 
 Here is some more text on another line.
+
+Another new line after modifying global git config
